@@ -1,0 +1,93 @@
+div .topbar {
+    display: block;
+}
+.topbar a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: hsl(0, 0%, 12%);
+    display: block;
+    padding: 15px;
+}
+.left {
+    float: left;
+    margin: 0px;
+    padding: 5px 2px 5px 2px;
+}
+.right {
+    float: right;
+    margin: 0px;
+    padding: 5px 2px 5px 2px;
+}
+
+#profile {
+    width: 40px;
+    height: auto;
+}
+
+div #logo{
+    display: block;
+    width: 600px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-top: 0;
+}
+#logo h1 {
+    width: 500px;
+    display: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 200px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+input {
+    display: block;
+    margin: auto;
+    width: 600px;
+    height: auto;
+    padding: 12px;
+    box-shadow: 1px 1px 2px hsl(0, 0%, 40%);
+    border: none;
+}
+button {
+    text-align: center;
+    font-weight: bold;
+    border-style: none;
+    box-shadow: none;
+    color: hsl(0, 0%, 25%);
+    background-color: hsl(0, 0%, 92%);
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-bottom: 170px;
+    padding: 15px;
+    display: inline-block;
+}
+#submit{
+    margin-left: auto;
+    align-content: center;
+    margin-left: 38%;
+}
+#feeling-lucky {
+    margin-right: auto;
+    align-content: center;
+}
+div .bottom-bar {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: hsl(0, 0%, 12%);
+    display: block;
+    padding: 15px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
